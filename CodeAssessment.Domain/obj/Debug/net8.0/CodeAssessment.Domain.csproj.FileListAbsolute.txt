@@ -1,0 +1,11 @@
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\CodeAssessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\CodeAssessment.Domain.AssemblyInfoInputs.cache
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\CodeAssessment.Domain.AssemblyInfo.cs
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\CodeAssessment.Domain.csproj.CoreCompileInputs.cache
+D:\sample\CodeAssessment\CodeAssessment.Domain\bin\Debug\net8.0\CodeAssessment.Domain.deps.json
+D:\sample\CodeAssessment\CodeAssessment.Domain\bin\Debug\net8.0\CodeAssessment.Domain.dll
+D:\sample\CodeAssessment\CodeAssessment.Domain\bin\Debug\net8.0\CodeAssessment.Domain.pdb
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\CodeAssessment.Domain.dll
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\refint\CodeAssessment.Domain.dll
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\CodeAssessment.Domain.pdb
+D:\sample\CodeAssessment\CodeAssessment.Domain\obj\Debug\net8.0\ref\CodeAssessment.Domain.dll

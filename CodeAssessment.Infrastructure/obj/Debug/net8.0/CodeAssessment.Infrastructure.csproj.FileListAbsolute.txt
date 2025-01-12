@@ -1,0 +1,17 @@
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Infrastructure.deps.json
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Infrastructure.dll
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Infrastructure.pdb
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Common.dll
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Domain.dll
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Common.pdb
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Domain.pdb
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.csproj.AssemblyReference.cache
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.AssemblyInfoInputs.cache
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.AssemblyInfo.cs
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAsse.778302F3.Up2Date
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.dll
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\refint\CodeAssessment.Infrastructure.dll
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.pdb
+D:\sample\CodeAssessment\CodeAssessment.Infrastructure\obj\Debug\net8.0\ref\CodeAssessment.Infrastructure.dll
